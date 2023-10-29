@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LucasB
--  I’m interested in learning and sharing some code that I do.
+-  I’m interested in learning and sharing some code.
 -  I’m currently learning system development, ETEC.
 -  You can contact me with my personal E-mail: lucasbviela01@gmail.com
--  I speak: Portuguese and English, contact me in one of those languages.
+-  I speak: Portuguese and English, contact me in one of these languages.
