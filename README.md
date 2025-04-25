@@ -10,7 +10,7 @@
 Portuguese and English, contact me in one of these languages.
 </p>
 
-<h2 align="center">Languages and tools I've used</h3>
+<h2 align="center">Languages and tools I've used:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -34,7 +34,7 @@ Portuguese and English, contact me in one of these languages.
 
 ###
 
-<h2 align="center">My stats</h3>
+<h2 align="center">My stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasBonfimVilela01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
