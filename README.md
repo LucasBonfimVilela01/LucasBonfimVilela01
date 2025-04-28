@@ -6,7 +6,7 @@
 - 📫 How to reach me **lucasbviela01@gmail.com**
 
 <h2 align="center">I Speak:</h3>
-<p align="left">
+<p align="center">
 Portuguese and English, contact me in one of these languages.
 </p>
 
