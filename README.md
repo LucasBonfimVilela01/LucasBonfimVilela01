@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LucasB</h1>
 <h3 align="center">I’m interested in learning and sharing some code.</h3>
 
-- 🌱 I’m currently learning **Systems Development at ETEC.**
+- 🌱 I’m currently learning **Software Development at ETEC.**
 
 - 📫 How to reach me **lucasbviela01@gmail.com**
 
@@ -50,7 +50,7 @@ Portuguese and English, contact me in one of these languages.
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LucasBonfimVilela01/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=LucasBonfimVilela01&color=blueviolet)
 </div>
 
 ###
