@@ -50,7 +50,7 @@ Portuguese and English, contact me in one of these languages.
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=LucasBonfimVilela01&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=LucasBonfimVilela01&color=blueviolet" alt="viewcounter">
 </div>
 
 ###
