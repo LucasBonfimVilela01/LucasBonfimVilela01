@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LucasB</h1>
 <h3 align="center">I’m interested in learning and sharing some code.</h3>
 
-- 🌱 I’m currently learning **Software Development at ETEC.**
+- 🌱 I’m currently learning **Software Development at FATEC.**
 
 - 📫 How to reach me **lucasbviela01@gmail.com**
 
